@@ -3,6 +3,8 @@ A double-sided shader based on [MToon][1].
 
 一个基于[MToon][1]的双面shader。
 
+![Preview](preview.gif)
+
 # Why need? 为什么需要此shader？
 Because objects such as skirts and capes often don't want the same pattern on both sides, a shader is needed to solve this problem.
 
